@@ -1,12 +1,24 @@
-# flutter_project_template
-📖 Template for flutter projects using solid_lints, CI for tests and analysis.
+# Random Colors Flutter Project
 
-- Uses latest stable flutter
-- Repo name as your project name
-- Organization from your profile email address or default
+This is a Flutter project that displays a screen with the text "Hello there" in the middle. When you tap anywhere on the screen, the background color changes to a randomly generated color. 
 
-# Usage
-1. Press "Use this template" on the menu.
-2. Fill Github form with your new repo name and press "Create repository from template"
-3. Wait for it to be created and set up action is complete. In a couple of minutes, you'll see the flutter project created in your repo once Github Actions are complete.
-4. Clone and code.
+## Installation
+
+To install and run this project, follow these steps:
+
+1. Make sure you have Flutter installed. If you don't, [install it here](https://flutter.dev/docs/get-started/install).
+2. Clone this repository using the following command:
+3. Open the project in your preferred IDE or text editor.
+4. Run the project using your preferred method (e.g. by clicking the "Run" button in your IDE).
+
+## Features
+
+This project has the following features:
+
+- Displays "Hello there" in the middle of the screen.
+- Changes the background color to a randomly generated color when you tap anywhere on the screen.
+- Has a git workflow that was incoorporated/generated from solid-software/fluttter_project_template
+
+## Dependencies
+
+This project has no external dependencies.
